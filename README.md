@@ -19,4 +19,4 @@ A simple, responsive to-do list application built with HTML, CSS, and JavaScript
 3. Start adding your tasks!
 
 ## Demo
-[Live Demo](https://yourusername.github.io/your-repo-name)
+[Live Demo](https://isha0149.github.io/todo-list/)
